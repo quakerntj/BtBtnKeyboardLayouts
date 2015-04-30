@@ -3,6 +3,8 @@
     <string name="app_name">BT Button KeyboardLayouts</string>
     <string name="VolumeUpAndDown">Volume up and down.</string>
     <string name="MediaNextAndPrevious">Media next and previous.</string>
-	<string name="Voice_Assist">VoiceAssist and Enter</string>
+	<string name="VoiceAssistAndEnter">VoiceAssist and Enter</string>
+	<string name="CallAndHeadsetHook">Call and headset hook</string>
+	<string name="EndcallAndHeadsetHook">Endcall and headset hook</string>
 	<string name="keyboard_layouts_label">Define. Button!</string>
 </resources>

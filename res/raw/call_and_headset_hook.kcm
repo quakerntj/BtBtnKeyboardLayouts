@@ -16,5 +16,5 @@
 
 type OVERLAY
 
-#map key 28 KEYCODE_ENTER
-map key 115 VOICE_ASSIST
+map key 28 HEADSETHOOK
+map key 115 CALL

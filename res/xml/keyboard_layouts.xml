@@ -6,7 +6,13 @@
     <keyboard-layout android:name="MediaNextAndPrevious"
             android:label="@string/MediaNextAndPrevious"
             android:keyboardLayout="@raw/media_next_and_previous" />
-    <keyboard-layout android:name="Voice_Assist"
-            android:label="@string/Voice_Assist"
-            android:keyboardLayout="@raw/voice_assist" />
+    <keyboard-layout android:name="VoiceAssistAndEnter"
+            android:label="@string/VoiceAssistAndEnter"
+            android:keyboardLayout="@raw/voice_assist_and_enter" />
+    <keyboard-layout android:name="CallAndHeadsetHook"
+            android:label="@string/CallAndHeadsetHook"
+            android:keyboardLayout="@raw/call_and_headset_hook" />
+    <keyboard-layout android:name="EndcallAndHeadsetHook"
+            android:label="@string/EndcallAndHeadsetHook"
+            android:keyboardLayout="@raw/endcall_and_headset_hook" />
 </keyboard-layouts>
